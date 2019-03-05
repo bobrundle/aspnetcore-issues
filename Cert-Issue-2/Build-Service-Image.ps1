@@ -1,0 +1,1 @@
+docker build -t mfaas/aspdotnetcoreservice -t mfaas.azurecr.io/aspdotnetcoreservice -f $PSScriptRoot\service.dockerfile $PSScriptRoot

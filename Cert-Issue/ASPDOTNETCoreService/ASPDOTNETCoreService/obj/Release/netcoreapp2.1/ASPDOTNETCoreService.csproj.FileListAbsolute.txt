@@ -1,0 +1,10 @@
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\ASPDOTNETCoreService\ASPDOTNETCoreService\bin\Release\netcoreapp2.1\ASPDOTNETCoreService.deps.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\ASPDOTNETCoreService\ASPDOTNETCoreService\bin\Release\netcoreapp2.1\ASPDOTNETCoreService.runtimeconfig.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\ASPDOTNETCoreService\ASPDOTNETCoreService\bin\Release\netcoreapp2.1\ASPDOTNETCoreService.runtimeconfig.dev.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\ASPDOTNETCoreService\ASPDOTNETCoreService\bin\Release\netcoreapp2.1\ASPDOTNETCoreService.dll
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\ASPDOTNETCoreService\ASPDOTNETCoreService\bin\Release\netcoreapp2.1\ASPDOTNETCoreService.pdb
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\bin\netcoreapp2.1\ASPDOTNETCoreService.deps.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\bin\netcoreapp2.1\ASPDOTNETCoreService.runtimeconfig.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\bin\netcoreapp2.1\ASPDOTNETCoreService.runtimeconfig.dev.json
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\bin\netcoreapp2.1\ASPDOTNETCoreService.dll
+D:\rundle\VSTS\BHGE-ResStim\Cloud\MFaaS\Support\Cert-Issue\bin\netcoreapp2.1\ASPDOTNETCoreService.pdb

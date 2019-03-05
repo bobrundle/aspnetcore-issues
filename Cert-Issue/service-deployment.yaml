@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aspdotnetcoreservice
+  labels:
+    app: aspdotnetcoreservice
+spec:
+  replicas: 1
+  template:
+    metadata:
+      name: aspdotnetcoreservice
+      labels:
+        app: aspdotnetcoreservice
+    spec:
+      containers:
+      - name: aspdotnetcoreservice
+        image: mfaas.azurecr.io/aspdotnetcoreservice
+        imagePullPolicy: "Always"
+        ports:
+        - containerPort: 12020
+      imagePullSecrets:
+      - name: regcred
+      nodeSelector:
+        "beta.kubernetes.io/os": windows
+  selector:
+    matchLabels:
+      app: aspdotnetcoreservice
